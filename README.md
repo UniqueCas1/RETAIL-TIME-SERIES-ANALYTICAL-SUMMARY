@@ -17,7 +17,7 @@ These were done to ensure the integrity and quality of the data were kept, with 
 - - Revenue generated
 
 #### ANALYSIS TOOL
-Microsoft Excel 2019
+Microsoft Excel 2019 [Download Here](https://www.microsoft.com/en-us/microsoft-365/download-office)
 
 #### EXPLORATORY DATA ANALYSIS
 By employing the use of pivot tables and calculated columns, I was able to answer the following:
