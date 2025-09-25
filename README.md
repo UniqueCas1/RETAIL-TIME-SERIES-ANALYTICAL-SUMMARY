@@ -1,5 +1,3 @@
-# RETAIL-TIME-SERIES-ANALYTICAL-SUMMARY
-Time series analysis to insights into the sales performance of a retail store for 2011 fiscal year.
 ## RETAIL TIME SERIES ANALYTICAL SUMMARY
 ### TIMES SERIES ANALYSIS
 
@@ -33,10 +31,10 @@ By employing the use of pivot tables and calculated columns, I was able to answe
 
 #### DATA ANALYSIS
 Below are some DAX Expressions used during my analysis:
-
-
-
-
+<img width="320" height="145" alt="github" src="https://github.com/user-attachments/assets/b3abc8f6-0a7c-4437-b22e-209bf6771e05" />
+<img width="277" height="137" alt="github 2" src="https://github.com/user-attachments/assets/5b118f56-4cea-456d-8c19-b361cae83bb4" />
+<img width="376" height="120" alt="github 1" src="https://github.com/user-attachments/assets/3693d74a-0c33-4e13-90b1-9d75138163c8" />
+<img width="1339" height="653" alt="Screenshot for linkedin" src="https://github.com/user-attachments/assets/a39d0bcf-913c-4b9e-a221-ef2182c11e07" />
 
 #### RESULTS AND INSIGHTS
 The top 5 products based on the analysis of the Amazon sales data set in terms of the average rating by customers and reviews combined are all products under ‘**Electronics**’ Category of products
